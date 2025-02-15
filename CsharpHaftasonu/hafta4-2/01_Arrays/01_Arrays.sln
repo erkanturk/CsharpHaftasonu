@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Arrays", "01_Arrays\01_Arrays.csproj", "{1C5F26AF-DF00-461F-995E-25C2045D0B0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Array", "02_Array\02_Array.csproj", "{3154E66B-9528-4FE1-9049-F42A49F300A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C5F26AF-DF00-461F-995E-25C2045D0B0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C5F26AF-DF00-461F-995E-25C2045D0B0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C5F26AF-DF00-461F-995E-25C2045D0B0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C5F26AF-DF00-461F-995E-25C2045D0B0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3154E66B-9528-4FE1-9049-F42A49F300A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3154E66B-9528-4FE1-9049-F42A49F300A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3154E66B-9528-4FE1-9049-F42A49F300A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3154E66B-9528-4FE1-9049-F42A49F300A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
