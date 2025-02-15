@@ -1,9 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Bankamatik", "01_Bankamatik\01_Bankamatik.csproj", "{B22308DC-343C-49EE-B37C-BBBE893BD253}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Math", "02_Math\02_Math.csproj", "{7E2FC96C-7880-43A8-93C7-84ABC97DDFC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Methods", "01_Methods\01_Methods.csproj", "{556F41DF-FC80-4EDF-8968-C1ED4A5CB7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Method", "02_Method\02_Method.csproj", "{2B79B50E-3726-43AB-8032-09C50B82932E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{B22308DC-343C-49EE-B37C-BBBE893BD253}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B22308DC-343C-49EE-B37C-BBBE893BD253}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B22308DC-343C-49EE-B37C-BBBE893BD253}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2FC96C-7880-43A8-93C7-84ABC97DDFC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2FC96C-7880-43A8-93C7-84ABC97DDFC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2FC96C-7880-43A8-93C7-84ABC97DDFC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2FC96C-7880-43A8-93C7-84ABC97DDFC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556F41DF-FC80-4EDF-8968-C1ED4A5CB7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556F41DF-FC80-4EDF-8968-C1ED4A5CB7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556F41DF-FC80-4EDF-8968-C1ED4A5CB7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556F41DF-FC80-4EDF-8968-C1ED4A5CB7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B79B50E-3726-43AB-8032-09C50B82932E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B79B50E-3726-43AB-8032-09C50B82932E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B79B50E-3726-43AB-8032-09C50B82932E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B79B50E-3726-43AB-8032-09C50B82932E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
